@@ -1,4 +1,4 @@
-# Hi there, my name is **Sebastian** <br />
+# Hi there, my name is **Sebastian** 
 
 ✨ *Driven and self-motivated. Seeking to improve my data analysis and marketing skills.* ✨
 
