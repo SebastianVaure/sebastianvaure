@@ -2,7 +2,7 @@
 
 ### Driven and self-motivated. Seeking to improve my data analysis and marketing skills. ✨
 
-### Skills: SQL / Python / R / Tableau / Power BI
+### Skills: SQL / Python / R / Tableau / Power BI <br />
 
 
 
