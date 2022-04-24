@@ -1,7 +1,11 @@
-### Hi there 👋, My name is **Sebastian**
-Driven and self-motivated. Seeking to improve my data analysis and marketing skills.
+## Hi there, my name is **Sebastian** 
 
-Skills: SQL / Python / R / Tableau / Power BI
+
+
+##### Driven and self-motivated. Seeking to improve my data analysis and marketing skills. ✨
+
+
+##### Skills: SQL / Python / R / Tableau / Power BI
 
 
 
