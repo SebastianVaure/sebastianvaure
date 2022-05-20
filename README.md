@@ -3,6 +3,7 @@
 ✨ *Driven and self-motivated. Seeking to improve my data analysis and marketing skills.* ✨
 
 **Master in Business Analytics**
+
 **Master in International Business**
 
 ### Skills: SQL / Python / R / Tableau / Power BI / Excel
